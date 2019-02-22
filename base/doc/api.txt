@@ -1,0 +1,14 @@
+1.1用户注册
+/register
+1.2用户登录
+/login
+1.3用户注销
+/logout
+2.1用户编辑文章
+/<uid>/edit
+2.2用户发表的文章
+/<uid>/posted
+2.3所有用户发表的文章
+/all/posted
+3.1用户评论
+/<uid>/<posted id>/comment
